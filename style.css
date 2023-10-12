@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.card{
+    margin:30px;
+    max-width: 225px;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.card-text{
+    padding:3px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    background-color: pink;
+
+}
+.card-body{
+    background-color: pink;
+}
